@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('cities.jpg');
+
+    font-family: sans-serif;
+    color: black;
+}
+
+
+
+
+
+button{
+    width: 120px;
+    height: 50px;
+    border-radius: 18px;
+    border: none;
+    
+}
+
+.name{
+    width: 100px;
+    height: 50px;
+}
+
+input{
+    
+    width: 350px;
+    height: 50px;
+    padding: 20px;
+    border-radius: 18px;
+    font-size: 120%;
+    border: none;
+    outline: none;
+}
+
+
+
+
